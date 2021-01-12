@@ -1,46 +1,46 @@
-### Your Name / Date
+## Your Name / Date
 
-### Executive Summary 
+## Executive Summary 
 Include your executive summary here...
 
-### Lucidchart
+## Lucidchart
 
-### Introduction to Networking
+## Introduction to Networking
 
-#### Data Transmission
-##### Packet:
-##### Packet-Switching:
-##### IP Address:
+### Data Transmission
+#### Packet:
+#### Packet-Switching:
+#### IP Address:
 
-##### DNS:
+#### DNS:
 
-##### Protocol:
+#### Protocol:
 
-#### Networking Hardware
-#### Network Topologies
-##### Single point of Failure
-##### Infrastrucutre vs. Wireless Mesh
-#### Network Design
-#### NSA/CSS
+### Networking Hardware
+### Network Topologies
+#### Single point of Failure
+#### Infrastrucutre vs. Wireless Mesh
+### Network Design
+### NSA/CSS
 
-### Cybersecurity and Encryption
+## Cybersecurity and Encryption
 
-#### Information Systems Security
+### Information Systems Security
 
-##### Security Triad
-##### Authentication
-##### ACL and RBAC
-##### Ciphertext, Public Key and Private Key
-##### Public Key Cryptography
+#### Security Triad
+#### Authentication
+#### ACL and RBAC
+#### Ciphertext, Public Key and Private Key
+#### Public Key Cryptography
 
-#### Cryptography
-##### Encryption
-##### Frequency Fingerprint
-##### Polyalphabetic Cipher
-##### Polyalphabetic Example
+### Cryptography
+#### Encryption
+#### Frequency Fingerprint
+#### Polyalphabetic Cipher
+#### Polyalphabetic Example
 
-##### Brute-Force
+#### Brute-Force
 
-### Conclusion
+## Conclusion
 Include your professional conclusion here...
 
