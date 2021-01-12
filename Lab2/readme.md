@@ -4,11 +4,11 @@
 Include your executive summary here...
 
 ### Hardware
-##### Hard Drives and Memory
-##### ALU and the Control Unit
-##### CUP, Input & Output
-##### Logic Gates 
-##### IEEE - Ethically Aligned Design
+#### Hard Drives and Memory
+#### ALU and the Control Unit
+#### CUP, Input & Output
+#### Logic Gates 
+#### IEEE - Ethically Aligned Design
 
 ### Data Representation
 #### Numeric Conversions
