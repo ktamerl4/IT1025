@@ -1,18 +1,18 @@
-### Your Name / Date
+## Your Name / Date
 
-### Executive Summary 
+## Executive Summary 
 Include your executive summary here...
 
-### Hardware
-#### Hard Drives and Memory
-#### ALU and the Control Unit
-#### CUP, Input & Output
-#### Logic Gates 
-#### IEEE - Ethically Aligned Design
+## Hardware
+### Hard Drives and Memory
+### ALU and the Control Unit
+### CUP, Input & Output
+### Logic Gates 
+### IEEE - Ethically Aligned Design
 
-### Data Representation
-#### Numeric Conversions
-#### Hexadecimal Color Representation
+## Data Representation
+### Numeric Conversions
+### Hexadecimal Color Representation
 
-### Conclusion
+## Conclusion
 Include your conclusion here...
