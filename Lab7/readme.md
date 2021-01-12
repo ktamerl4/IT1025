@@ -1,24 +1,24 @@
-### Your Name / Date
+## Your Name / Date
 
-### Executive Summary 
+## Executive Summary 
 Include your executive summary here...
 
-### File Compression
-###### Purpose of File Compression
-###### Compression and File Size
+## File Compression
+### Purpose of File Compression
+### Compression and File Size
 
-### Object Oriented Programming (OOP) and the Shark Class
-###### Attributes:
-###### Methods:
-###### Constructor:
-###### Class vs. Object
+## Object Oriented Programming (OOP) and the Shark Class
+### Attributes:
+### Methods:
+### Constructor:
+### Class vs. Object
 
-### Object Oriented Concepts
-###### Instantiated objects
-###### Inheritance
-###### Encapsulation and Abstraction
+## Object Oriented Concepts
+### Instantiated Objects
+### Inheritance
+### Encapsulation and Abstraction
 
-### Unified Modeling Language (UML)
+## Unified Modeling Language (UML)
 
-### Conclusion
+## Conclusion
 Include your conclusion here...
