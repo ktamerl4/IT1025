@@ -15,8 +15,8 @@ Include your executive summary here...
 ###### Technology Driving the need for Big Data
 
 ### Structured Query Language (SQL) 
-##### RDBMS and SQL
-##### Relationship, Primary and Foreign Keys
+###### RDBMS and SQL
+#####3 Relationship, Primary and Foreign Keys
 
 ### SQL Injections
 
