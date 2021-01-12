@@ -7,23 +7,23 @@ Include your executive summary here...
 
 ### Introduction to Networking
 
-##### Data Transmission
+#### Data Transmission
 ###### Packet:
 ###### Packet-Switching:
 ###### IP Address:
 ###### DNS:
 ###### Protocol:
 
-##### Networking Hardware
-##### Network Topologies
+#### Networking Hardware
+#### Network Topologies
 ###### Single point of Failure
 ###### Infrastrucutre vs. Wireless Mesh
-##### Network Design
-##### NSA/CSS
+#### Network Design
+#### NSA/CSS
 
 ### Cybersecurity and Encryption
 
-##### Information Systems Security
+#### Information Systems Security
 
 ###### Security Triad
 ###### Authentication
@@ -31,7 +31,7 @@ Include your executive summary here...
 ###### Ciphertext, Public Key and Private Key
 ###### Public Key Cryptography
 
-##### Cryptography
+#### Cryptography
 ###### Encryption
 ###### Frequency Fingerprint
 ###### Polyalphabetic Cipher
