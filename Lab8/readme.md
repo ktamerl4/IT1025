@@ -16,7 +16,7 @@ Include your executive summary here...
 
 ### Structured Query Language (SQL) 
 ###### RDBMS and SQL
-#####3 Relationship, Primary and Foreign Keys
+###### Relationship, Primary and Foreign Keys
 
 ### SQL Injections
 
