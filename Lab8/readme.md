@@ -4,6 +4,8 @@
 Include your executive summary here...
 
 ## Data, Information and Knowledge
+### Compare and contrast data, information and knowledge
+
 ### Relational Data
 #### Primary Key:
 #### Relationship between customers and orders:
