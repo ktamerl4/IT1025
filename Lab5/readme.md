@@ -9,7 +9,6 @@ Include your executive summary here...
 
 #### Data Transmission
 ##### Packet:
-test data
 ##### Packet-Switching:
 ##### IP Address:
 
