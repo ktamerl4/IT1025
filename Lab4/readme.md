@@ -1,9 +1,15 @@
+### Your Name / Date
+
 ### Executive Summary 
 Include your executive summary here...
 
 ### Python IDLE
 
-##### Code Examples
+### Code Examples
+#### Variable:
+#### Assignment statement:
+#### Function:
+#### Three data types:
 
 ### Graphics
 
