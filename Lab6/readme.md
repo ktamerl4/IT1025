@@ -19,13 +19,13 @@ Include your executive summary here...
 ###### Protocols for Secure HTTP
 
 ### Securing your Web Browser
-#### Reasons to Secure Browser
-#### Risk Explained
+####### Reasons to Secure Browser
+####### Risk Explained
 
 ### Internet Programming
-#### World Wide Web Consortium
-#### HTML5 and CSS
-#### HTML and XML
+###### World Wide Web Consortium
+###### HTML5 and CSS
+###### HTML and XML
 
 ### Components of a URL
 
