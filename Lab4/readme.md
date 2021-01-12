@@ -13,10 +13,10 @@ Include your executive summary here...
 
 ### Graphics
 
-##### Raster vs. Vector Graphics
-##### Lossless vs. Lossy Compression
-##### File Formats
-##### File Properties
+#### Raster vs. Vector Graphics
+#### Lossless vs. Lossy Compression
+#### File Formats
+#### File Properties
 
 ### Conclusion
 
