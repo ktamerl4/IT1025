@@ -7,7 +7,7 @@ Include your executive summary here...
 ##### Hard Drives and Memory
 ##### ALU and the Control Unit
 ##### CUP, Input & Output
-##### Logic Gates and Circuits
+##### Logic Gates 
 ##### IEEE
 
 ### Data Representation
