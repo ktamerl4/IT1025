@@ -18,7 +18,10 @@ Include your executive summary here...
 ###### HTTP and Client-Server Model
 ###### Protocols for Secure HTTP
 
-#### Securing your Web Browser
+### Securing your Web Browser
+#### Reasons to Secure Browser
+#### Risk Explained
+
 ### Internet Programming
 #### World Wide Web Consortium
 #### HTML5 and CSS
