@@ -8,7 +8,7 @@ Include your executive summary here...
 ##### ALU and the Control Unit
 ##### CUP, Input & Output
 ##### Logic Gates 
-##### IEEE
+##### IEEE - Ethically Aligned Design
 
 ### Data Representation
 #### Numeric Conversions
