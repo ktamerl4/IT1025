@@ -14,7 +14,7 @@ Include your executive summary here...
 ### IEEE - Ethically Aligned Design
 
 ## Data Representation
-### Numeric Conversions
+### Decimal, Binary and Hexadecimal
 ### Hexadecimal Color Representation
 
 ## Conclusion
