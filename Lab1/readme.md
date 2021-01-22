@@ -1,8 +1,7 @@
-## Your Name / Date
+## Omar Yousef / 01/22/2021
 
 ## Executive Summary
-This is an example, please delete and create your own professional summary:
-The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+The purpose of studying Information Technology class IT1025 is to teach you the basics of Information Technology. The GitHub program that we will say by learning on it will teach us the basics accurately and how to maintain files. I am a person who loves technology and is fond of it, and I chose to study it because the coming years are the years of technology. And we hoped to be creative with what I want and master my work.
 
 ## Information System Components
 
@@ -11,6 +10,4 @@ The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history
 ### Cloud Computing
 
 ## Conclusion
-This is an example, please delete and create your own professional summary:
-Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
-
+In IT1025 we will learn about requirements such as GitHub, we will learn from this program the basics of information technology and how to use it. And of course, I will face difficulty because it is the first time, but I will do the impossible in order to verify it, and for sure I will need the help of a highly experienced teacher, and I will watch videos about the program in order to run faster.
