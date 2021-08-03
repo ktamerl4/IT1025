@@ -17,6 +17,8 @@ Include your executive summary here...
 #### Protocol:
 
 ### Networking Hardware
+#### Switch vs. Hub
+#### Router vs. Switch and Hub
 ### Network Topologies
 #### Single point of Failure
 #### Infrastrucutre vs. Wireless Mesh
